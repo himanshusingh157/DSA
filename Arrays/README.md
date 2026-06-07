@@ -9,3 +9,4 @@
 - [Next Permutation](https://www.geeksforgeeks.org/problems/next-permutation5226/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
