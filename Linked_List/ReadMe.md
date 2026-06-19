@@ -5,3 +5,4 @@
 - [Palindrome Linked List](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 # Hard
 - [Clone List with Next and Random](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
